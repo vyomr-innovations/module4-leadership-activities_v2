@@ -23,7 +23,7 @@ export default function Slider() {
 
     const objSubHeading = [
         'Sam wanted to play tag. Jake said, "No, you’ll slow us down!" Sam felt sad.',
-        'Sophia and Emma have always been best friends. One day, Mai, another classmate, invites Emma to sit with them. Sophia gets upset and says, "I thought we were best friends! If you sit with Mia, we’re not friends anymore!" Emma feels torn between making a new friend and keeping Sophia happy.',
+        'Sophia and Emma have always been best friends. One day, Mia, another classmate, invites Emma to sit with them. Sophia gets upset and says, "I thought we were best friends! If you sit with Mia, we’re not friends anymore!" Emma feels torn between making a new friend and keeping Sophia happy.',
         'Oliver and Mia discuss their favourite movies. Oliver loves superhero films, while Mia prefers animated movies. Oliver laughs and says, "Animated movies are for little kids. You should watch real movies like mine!" Mia feels embarrassed and annoyed at Oliver’s disrespectful remark.'
     ];
 

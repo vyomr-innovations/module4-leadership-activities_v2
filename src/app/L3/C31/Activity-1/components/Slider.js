@@ -30,7 +30,7 @@ export default function Slider() {
         }
     ]
 
-    const s1_grp2_q1 = "Why does your group prefer a quiet reading area instead?"
+    const s1_grp2_q1 = "How does your group feel about kids and parents deciding instead of curfew?"
 
     const handleTextBoxChange = (e, groupId, ansIndex) => {
         setErr(false)
